@@ -92,7 +92,7 @@ namespace Calculator
                     Console.WriteLine("Oh no! An exception occurred trying to do the math.\n - Details: " + e.Message);
                 }
 
-                Console.WriteLine("-----------------------\n");
+                Console.WriteLine("------------------------\n");
 
                 //Fechar o app
                 Console.WriteLine("Press 'n' and Enter to close the app, or press any other key and Enter to continue: ");
