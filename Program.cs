@@ -1,7 +1,4 @@
-﻿using System;
-using System.ComponentModel;
-
-namespace Calculator
+﻿namespace Calculator
 {
     class Calculator
     {

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld101", "HelloWorld101.csproj", "{16F66A2A-1AB0-453C-AA88-7708FCE5D679}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld101", "HelloWorld101.csproj", "{16F66A2A-1AB0-453C-AA88-7708FCE5D679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaEscolar", "..\MediaEscolar\MediaEscolar.csproj", "{F2744A05-E074-4932-961B-0C002837057D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{16F66A2A-1AB0-453C-AA88-7708FCE5D679}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16F66A2A-1AB0-453C-AA88-7708FCE5D679}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16F66A2A-1AB0-453C-AA88-7708FCE5D679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2744A05-E074-4932-961B-0C002837057D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2744A05-E074-4932-961B-0C002837057D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2744A05-E074-4932-961B-0C002837057D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2744A05-E074-4932-961B-0C002837057D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
