@@ -71,6 +71,7 @@ namespace CalculatorProgram
 
                 Console.WriteLine("\n");
             }
+            calculator.Finish();
             return;
         }
     }
